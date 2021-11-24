@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/webwerks/Documents/Projects/Deventure/DeventureTest/DeventureAndroid/DeventureAndroid/DeventureAndroid.csproj": {}
+  },
+  "projects": {
+    "/Users/webwerks/Documents/Projects/Deventure/DeventureTest/DeventureAndroid/DeventureAndroid/DeventureAndroid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/webwerks/Documents/Projects/Deventure/DeventureTest/DeventureAndroid/DeventureAndroid/DeventureAndroid.csproj",
+        "projectName": "DeventureAndroid",
+        "projectPath": "/Users/webwerks/Documents/Projects/Deventure/DeventureTest/DeventureAndroid/DeventureAndroid/DeventureAndroid.csproj",
+        "packagesPath": "/Users/webwerks/.nuget/packages/",
+        "outputPath": "/Users/webwerks/Documents/Projects/Deventure/DeventureTest/DeventureAndroid/DeventureAndroid/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/webwerks/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
