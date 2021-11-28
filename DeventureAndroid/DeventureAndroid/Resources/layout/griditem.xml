@@ -1,0 +1,41 @@
+﻿
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"  
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="100dp"  
+    android:layout_height="100dp"
+    app:cardCornerRadius="5dp"
+    android:animateLayoutChanges="true"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="10dp"
+    android:padding="10dp"
+    app:cardElevation="10dp">
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:clipToPadding="true"
+        android:clipChildren="true">
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="70dp"
+            android:src="@drawable/burger"
+            android:id="@+id/imgFiter"
+            android:scaleType="centerCrop"/>
+         <TextView  
+      android:id="@+id/txtFilterItemName"  
+      android:layout_width="100dp"  
+      android:layout_height="wrap_content"  
+      android:textSize="12dp"
+      android:textFontWeight="600"
+      android:layout_marginTop="5dp"
+      android:text="Burger"
+      android:gravity="center"  
+      android:layout_gravity="bottom"  
+      android:textColor="@android:color/black"/>
+  </LinearLayout>
+</androidx.cardview.widget.CardView>
+</FrameLayout>

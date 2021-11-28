@@ -1,21 +1,29 @@
 ﻿<Properties StartupConfiguration="{3EC416BB-8843-46B7-BBAC-237D62819A84}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeventureAndroid/Models/ProductModel.cs">
     <Files>
-      <File FileName="DeventureAndroid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="DeventureAndroid/MainActivity.cs" Line="176" Column="10" />
+      <File FileName="DeventureAndroid/Resources/layout/content_main.xml" Line="102" Column="20" />
+      <File FileName="DeventureAndroid/Resources/layout/activity_main.xml" Line="21" Column="34" />
+      <File FileName="DeventureAndroid/Resources/layout/layout_itemList.xml" Line="85" Column="39" />
+      <File FileName="DeventureAndroid/Resources/drawable/green_border_with_white.xml" Line="14" Column="14" />
+      <File FileName="DeventureAndroid/Resources/drawable/gray_border_with_white.xml" Line="9" Column="32" />
+      <File FileName="DeventureAndroid/Resources/drawable/gray_rounded.xml" Line="9" Column="32" />
+      <File FileName="DeventureAndroid/Resources/layout/order_main.xml" Line="805" Column="24" />
+      <File FileName="DeventureAndroid/Resources/layout/extra_item_list.xml" Line="31" Column="7" />
+      <File FileName="DeventureAndroid/Resources/layout/griditem.xml" Line="1" Column="1" />
+      <File FileName="DeventureAndroid/Models/ProductModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DeventureAndroid" expanded="True">
-            <Node name="DeventureAndroid" expanded="True">
-              <Node name="GettingStarted" selected="True" />
-            </Node>
+            <Node name="DeventureAndroid" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.DeventureAndroid FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.DeventureAndroid AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
